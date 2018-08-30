@@ -1,0 +1,30 @@
+{
+    "metadata":{
+        "responseInfo":{
+            "status":200,
+            "developermessage":"ok",
+        }
+    },
+    "countries":[
+        {
+            "name":"India",
+            "capital":"New Delhi",
+            "population":200000,
+        },
+        {
+            "name":"England",
+            "capital":"London",
+            "population":5000,
+        },
+        {
+            "name":"Costa Rica",
+            "capital":"San Jose",
+            "population":2000,
+        },
+        {
+            "name":"USA",
+            "capital":"Washington DC",
+            "population":100000,
+        }
+    ]
+}
